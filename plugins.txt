@@ -1,0 +1,14 @@
+Next build number:latest
+maven:latest
+pipeline-github-lib:latest
+pipeline-stage-view:latest
+ssh-slaves:latest
+mailer:latest
+git:latest
+#Clone workspace SCm
+#Build pipeline plugin
+#Deploy to container
+#Nested view
+#Backup 3-uplugins
+#Rebuilder
+#Disk usage
